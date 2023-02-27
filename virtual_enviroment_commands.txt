@@ -1,4 +1,5 @@
 Command for creating the virtual enviroment in python 
+and should be used command prompt or cmd only
 
 1. python -m venv enviroment_name
 2. evniroment_name\scripts\activate
